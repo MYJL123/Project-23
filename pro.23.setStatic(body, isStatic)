@@ -1,0 +1,11 @@
+Matter.Body.setStatic(body, isStatic)
+body=isStatic
+mass,inertia=infinity
+
+
+body=thisBody
+
+isStatic Bool
+
+packageSprite.x= packageBody.position.x
+packageSprite.y= packageBody.position.y
